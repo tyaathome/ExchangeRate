@@ -5,24 +5,45 @@
         <item>AUD</item>
         <item>CNY</item>
         <item>USD</item>
+        <item>GBP</item>
+        <item>SUR</item>
+        <item>JPY</item>
+        <item>DEM</item>
+        <item>EUR</item>
     </string-array>
 
     <string-array name="currency">
         <item>Australian Dollar $</item>
         <item>Chinese Yuan ¥</item>
         <item>United States Dollar $</item>
+        <item>Pound Sterling £</item>
+        <item>Russian Ruble</item>
+        <item>Japanese Yen ¥</item>
+        <item>Deutsche Mark</item>
+        <item>Euro €</item>
     </string-array>
     
     <string-array name="exchange_rate">
         <item>1.3082</item>
         <item>6.8764</item>
         <item>1</item>
+        <item>0.78</item>
+        <item>57</item>
+        <item>110.36</item>
+        <item>1.72</item>
+        <item>0.89</item>
+
     </string-array>
 
     <integer-array name="icon_id">
         <item>@mipmap/australia_flag</item>
         <item>@mipmap/china_flag</item>
         <item>@mipmap/united_states_flag</item>
+        <item>@mipmap/united_kingdom_flag</item>
+        <item>@mipmap/russia_flag</item>
+        <item>@mipmap/japan_flag</item>
+        <item>@mipmap/germany_flag</item>
+        <item>@mipmap/european_union_flag</item>
     </integer-array>
 
 </resources>
